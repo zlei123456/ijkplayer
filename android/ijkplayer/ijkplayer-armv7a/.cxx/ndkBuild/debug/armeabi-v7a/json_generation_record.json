@@ -1,0 +1,62 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: armeabi-v7a",
+    "file": "/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/src/main/jni/Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON /Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/.cxx/ndkBuild/debug/armeabi-v7a/android_gradle_build.json due to:",
+    "file": "/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/src/main/jni/Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json /Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/.cxx/ndkBuild/debug/armeabi-v7a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/src/main/jni/Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file /Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/.cxx/ndkBuild/debug/armeabi-v7a/build_command.txt, will remove stale json folder",
+    "file": "/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/src/main/jni/Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/src/main/jni/Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/.cxx/ndkBuild/debug/armeabi-v7a\u0027",
+    "file": "/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/src/main/jni/Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/.cxx/ndkBuild/debug/armeabi-v7a\u0027",
+    "file": "/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/src/main/jni/Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing ndkBuild Executable : /Users/quanjingsheng/Library/Android/sdk/ndk/21.1.6352462/ndk-build\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/src/main/jni/Android.mk\nNDK_APPLICATION_MK\u003d/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/src/main/jni/Application.mk\nAPP_ABI\u003darmeabi-v7a\nNDK_ALL_ABIS\u003darmeabi-v7a\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-21\nNDK_OUT\u003d/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/build/intermediates/ndkBuild/debug/obj\nNDK_LIBS_OUT\u003d/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/build/intermediates/ndkBuild/debug/lib\nNDK_APPLICATION_MK:\u003dsrc/main/jni/Application.mk\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file": "/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/src/main/jni/Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Executable : /Users/quanjingsheng/Library/Android/sdk/ndk/21.1.6352462/ndk-build\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/src/main/jni/Android.mk\nNDK_APPLICATION_MK\u003d/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/src/main/jni/Application.mk\nAPP_ABI\u003darmeabi-v7a\nNDK_ALL_ABIS\u003darmeabi-v7a\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-21\nNDK_OUT\u003d/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/build/intermediates/ndkBuild/debug/obj\nNDK_LIBS_OUT\u003d/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/build/intermediates/ndkBuild/debug/lib\nNDK_APPLICATION_MK:\u003dsrc/main/jni/Application.mk\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file": "/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/src/main/jni/Android.mk",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed with problem. Exception: Build command failed.\nError while executing process /Users/quanjingsheng/Library/Android/sdk/ndk/21.1.6352462/ndk-build with arguments {NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/src/main/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/build/intermediates/ndkBuild/debug/lib NDK_APPLICATION_MK:\u003dsrc/main/jni/Application.mk APP_SHORT_COMMANDS\u003dfalse LOCAL_SHORT_COMMANDS\u003dfalse -B -n}\n\nfcntl(): Bad file descriptor\n/Users/quanjingsheng/Library/Android/sdk/ndk/21.1.6352462/build/core/add-application.mk:178: *** Android NDK: APP_STL stlport_static is no longer supported. Please switch to either c++_static or c++_shared. See https://developer.android.com/ndk/guides/cpp-support.html for more information.    .  Stop.\n",
+    "file": "/Users/quanjingsheng/Documents/sdk/ijkplayer/code/ijkplayer/android/ijkplayer/ijkplayer-armv7a/src/main/jni/Android.mk",
+    "tag": "debug|armeabi-v7a"
+  }
+]

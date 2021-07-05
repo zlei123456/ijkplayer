@@ -1,0 +1,9 @@
+{
+  "ndkDirProperty": "/Users/quanjingsheng/Documents/android/android-ndk-r10e",
+  "sdkFolder": "/Users/quanjingsheng/Library/Android/sdk",
+  "sideBySideNdkFolderNames": [
+    "21.0.6113669",
+    "21.1.6352462",
+    "23.0.7123448"
+  ]
+}
