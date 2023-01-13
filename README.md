@@ -7,6 +7,9 @@
 
 Video player based on [ffplay](http://ffmpeg.org)
 
+update exoplayer to v2.18.2
+更新exoplayer版本到v2.18.2
+
 ### Download
 
 - Android:
